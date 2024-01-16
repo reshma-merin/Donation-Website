@@ -28,8 +28,3 @@
 3. Create an account to track your donation history and receive updates on supported projects.
 4. Contribute to projects you are passionate about and make a positive impact.
 
-## Contribution Guidelines
-We welcome contributions from the community to enhance the functionality and features of "For The People." To contribute, please follow our [Contribution Guidelines](CONTRIBUTING.md).
-
-## License
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it for both non-commercial and commercial purposes.
