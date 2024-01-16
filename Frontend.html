@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>For the People - Donation</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header>
+        <h1>For the People</h1>
+        <p>Your Platform for Positive Change</p>
+    </header>
+
+    <main>
+        <section class="donation-form">
+            <h2>Make a Donation</h2>
+            <form action="/donate" method="post">
+                <label for="amount">Amount:</label>
+                <input type="text" id="amount" name="amount" placeholder="Enter amount" required>
+
+                <label for="name">Full Name:</label>
+                <input type="text" id="name" name="name" placeholder="Your Full Name" required>
+
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" placeholder="Your Email" required>
+
+                <label for="message">Message (Optional):</label>
+                <textarea id="message" name="message" placeholder="Leave a message"></textarea>
+
+                <button type="submit">Donate Now</button>
+            </form>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 For the People. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
