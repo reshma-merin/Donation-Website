@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>For the People - Donation</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+
+    <header>
+        <h1>For the People</h1>
+        <p>Your Platform for Positive Change</p>
+    </header>
+
+    <main>
+        <section class="donation-form">
+            <h2>Make a Donation</h2>
+            <form action="/donate" method="post">
+                <!-- Form fields go here (similar to the frontend example) -->
+
+                <button type="submit">Donate Now</button>
+            </form>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 For the People. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
