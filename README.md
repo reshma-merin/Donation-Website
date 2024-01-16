@@ -22,17 +22,6 @@
 - Ensure you have a modern web browser installed.
 - Have a stable internet connection.
 
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/for-the-people.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd for-the-people
-   ```
-3. Open `index.html` in your preferred web browser.
-
 ## Usage
 1. Explore the list of projects on the homepage.
 2. Click on a project to view its details and donation options.
