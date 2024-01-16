@@ -1,0 +1,2 @@
+Create a static folder in the same directory as app.py. Inside the static folder, create a styles.css file with the CSS styles similar to the frontend example.
+python app.py
